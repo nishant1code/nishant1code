@@ -14,7 +14,7 @@ I'm a budding web developer currently diving deep into JavaScript. I'm passionat
 
 ## 🔨 Blogs
 
-- **[Web Development Journey Blogs](https://github.com/nishant1code/JS-CLI-Projects](https://my-full-stack-journey.blogspot.com/
+- **[Web Development Journey Blogs](https://my-full-stack-journey.blogspot.com/
 )**: You can read my blogs where I talk about my web development journey.
 
 ## 📚 Learning Goals
