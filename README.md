@@ -12,10 +12,10 @@ I'm a budding web developer currently diving deep into JavaScript. I'm passionat
 - **[JS-CLI-Projects](https://github.com/nishant1code/JS-CLI-Projects)**: There are 7 different cli javascript projects.
 - **[JS-500-QA-Challenge](https://github.com/nishant1code/JS-500-QA-Challenge)**: This repo have total 500 conceptual questions to enhance knowledge through practice.
 
-## 🔨 Projects
+## 🔨 Blogs
 
-- **[Web Development Journey Blogs]([https://github.com/nishant1code/JS-CLI-Projects](https://my-full-stack-journey.blogspot.com/
-))**: You can read my blogs where I talk about my web development journey.
+- **[Web Development Journey Blogs](https://github.com/nishant1code/JS-CLI-Projects](https://my-full-stack-journey.blogspot.com/
+)**: You can read my blogs where I talk about my web development journey.
 
 ## 📚 Learning Goals
 
