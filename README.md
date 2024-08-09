@@ -1,6 +1,6 @@
 # Hi there, I'm Nishant Rana 👋
 
-I'm a budding web developer currently diving deep into JavaScript. I'm passionate about learning and building, and right now, I'm tackling 500 conceptual questions and working on CLI-based projects to solidify my JS skills. This is just the beginning of my journey in web development!
+I'm a budding web developer currently diving deep into JavaScript. I'm passionate about learning and building things, right now, I'm tackling 500 conceptual questions and working on CLI-based projects to solidify my JS skills. This is just the beginning of my web development journey!
 
 ## 🌱 Currently Learning
 
