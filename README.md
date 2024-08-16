@@ -25,7 +25,7 @@ I'm a budding web developer currently diving deep into JavaScript. I'm passionat
 
 ## 📫 How to Reach Me
 
-- Email: nishantbca8@gmail.com
+- Email: nishantonsocialmedia@gmail.com
 
 
 ## 🚀 Fun Facts
